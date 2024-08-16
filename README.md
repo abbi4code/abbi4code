@@ -4,7 +4,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=abbi4code&icon=7&color=5)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently learning on **K8s, Ocaml, Sail parsing **
+- 🔭 I’m currently learning on **K8s, Ocaml, Sail parsing**
 - 👨‍💻 Interested in **Web3, Devops**
 - 💬 Ask me about **Nextjs, Honojs, Docker, MERN**
 
