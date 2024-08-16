@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning on **K8s, Ocaml, Sail parsing **
 - 👨‍💻 Interested in **Web3, Devops**
-- 💬 Ask me about ** Nextjs, Honojs, Docker, MERN**
+- 💬 Ask me about **Nextjs, Honojs, Docker, MERN**
 
   
 
