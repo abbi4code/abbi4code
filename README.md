@@ -1,14 +1,11 @@
 # Hey there ✌️! I’m Abhishek Raj.
-## My time will come
+### just trying to learn something new everyday
+<!--[![](https://visitcount.itsvg.in/api?id=abbi4code&icon=7&color=5)](https://visitcount.itsvg.in) -->
 
 
-[![](https://visitcount.itsvg.in/api?id=abbi4code&icon=7&color=5)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently learning **Rust, WebSockets, Anchor**
-- 👨‍💻 Interested in **Web3, Devops, CP**
-- 💬 Ask me about **Nextjs, Docker, MERN**
-
-  
+- 👨‍💻 Interested in **Web3, CP**
 
 
 ## 🌐 Socials:
@@ -34,9 +31,6 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=abbi4code&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abbi4code&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abbi4code&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
