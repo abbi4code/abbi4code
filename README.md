@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently learning **Rust, WebSockets, Anchor**
+- 🔭 I’m currently learning **Rust, Bitcoin**
 - 👨‍💻 Interested in **Web3, CP**
 
 
