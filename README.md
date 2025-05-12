@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently learning **Rust, Bitcoin, GraphQL, Websockets**
+- 🔭 I’m currently learning **Bitcoin-fees cal, playwright, computer-networks**
 - 👨‍💻 Interested in **Web3, CP**
 
 
