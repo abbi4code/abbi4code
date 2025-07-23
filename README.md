@@ -8,6 +8,9 @@
 - 👨‍💻 Interested in **Web3, CP**
 
 
+[![Abhishek Raj profile views](https://u8views.com/api/v1/github/profiles/113784630/views/day-week-month-total-count.svg)](https://u8views.com/github/abbi4code)
+
+
 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=abbi4code&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> 
