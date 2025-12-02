@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently learning **golang, computer-networks**
+<!--- 🔭 I’m currently learning **golang, computer-networks** -->
 - 👨‍💻 Interested in **Web3, CP**
 
 
