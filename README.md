@@ -5,7 +5,7 @@
 
 
 <!--- 🔭 I’m currently learning **golang, computer-networks** -->
-- 👨‍💻 Interested in **Agentic AI, CP**
+<!-- - 👨‍💻 Interested in **Agentic AI, CP** -->
 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=abbi4code)
